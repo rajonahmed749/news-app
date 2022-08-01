@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "news-app-youtube",
-    "slug": "news-app-youtube",
+    "name": "News Today",
+    "slug": "news-today",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,10 +21,12 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "rajon_ahmed.newstoday",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       }
+      
     },
     "web": {
       "favicon": "./assets/favicon.png"
